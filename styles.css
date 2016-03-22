@@ -56,8 +56,8 @@ nav, article, nav ul li a,figure{
 
 /* Article styles: */
 
-#page{
-	width:960px;
+#page-id-home{
+	width:90%;
 	margin:0 auto;
 	position:relative;
 }
